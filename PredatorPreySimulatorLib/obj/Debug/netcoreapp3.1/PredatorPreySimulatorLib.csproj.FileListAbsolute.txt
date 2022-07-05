@@ -1,0 +1,26 @@
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\bin\Debug\netcoreapp3.1\PredatorPreySimulatorLib.exe
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\bin\Debug\netcoreapp3.1\PredatorPreySimulatorLib.deps.json
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\bin\Debug\netcoreapp3.1\PredatorPreySimulatorLib.runtimeconfig.json
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\bin\Debug\netcoreapp3.1\PredatorPreySimulatorLib.runtimeconfig.dev.json
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\bin\Debug\netcoreapp3.1\PredatorPreySimulatorLib.dll
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\bin\Debug\netcoreapp3.1\PredatorPreySimulatorLib.pdb
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.AssemblyInfo.cs
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.dll
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.pdb
+C:\Users\josep\source\repos\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.genruntimeconfig.cache
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\bin\Debug\netcoreapp3.1\PredatorPreySimulatorLib.exe
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\bin\Debug\netcoreapp3.1\PredatorPreySimulatorLib.deps.json
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\bin\Debug\netcoreapp3.1\PredatorPreySimulatorLib.runtimeconfig.json
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\bin\Debug\netcoreapp3.1\PredatorPreySimulatorLib.runtimeconfig.dev.json
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\bin\Debug\netcoreapp3.1\PredatorPreySimulatorLib.dll
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\bin\Debug\netcoreapp3.1\PredatorPreySimulatorLib.pdb
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.csprojAssemblyReference.cache
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.AssemblyInfoInputs.cache
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.AssemblyInfo.cs
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.dll
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.pdb
+C:\Users\josep\Documents\Masters\First Semester\Software Design\PredatorPreySimulation\PredatorPreySimulator\PredatorPreySimulatorLib\obj\Debug\netcoreapp3.1\PredatorPreySimulatorLib.genruntimeconfig.cache
